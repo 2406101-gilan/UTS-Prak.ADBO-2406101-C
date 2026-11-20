@@ -1,0 +1,120 @@
+<mxfile host="65bd71144e">
+    <diagram id="ryL1WTyL-bpJHV0t_J9k" name="Page-1">
+        <mxGraphModel dx="1038" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-24" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sekenario" vertex="1">
+                    <mxGeometry height="370" width="280" x="270" y="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-26" parent="WnsgHqOFqsz20Eys4YMR-24" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;tableRender=collapsed;" value="" vertex="1">
+                    <mxGeometry height="360" width="280" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-27" parent="WnsgHqOFqsz20Eys4YMR-26" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+                    <mxGeometry height="30" width="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-28" parent="WnsgHqOFqsz20Eys4YMR-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="Nama usecase" vertex="1">
+                    <mxGeometry height="30" width="142" as="geometry">
+                        <mxRectangle height="30" width="142" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-29" parent="WnsgHqOFqsz20Eys4YMR-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="ajukan beasiswa" vertex="1">
+                    <mxGeometry height="30" width="138" x="142" as="geometry">
+                        <mxRectangle height="30" width="138" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-30" parent="WnsgHqOFqsz20Eys4YMR-26" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+                    <mxGeometry height="48" width="280" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-31" parent="WnsgHqOFqsz20Eys4YMR-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="aktor" vertex="1">
+                    <mxGeometry height="48" width="142" as="geometry">
+                        <mxRectangle height="48" width="142" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-32" parent="WnsgHqOFqsz20Eys4YMR-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="mahasiswa lama&lt;div&gt;mahasiswa baru&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="48" width="138" x="142" as="geometry">
+                        <mxRectangle height="48" width="138" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-33" parent="WnsgHqOFqsz20Eys4YMR-26" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+                    <mxGeometry height="85" width="280" y="78" as="geometry"/>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-34" parent="WnsgHqOFqsz20Eys4YMR-33" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="Deskripsi" vertex="1">
+                    <mxGeometry height="85" width="142" as="geometry">
+                        <mxRectangle height="85" width="142" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-35" parent="WnsgHqOFqsz20Eys4YMR-33" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;Pemohon, yaitu Mahasiswa Baru dan Mahasiswa Lama, dapat melihat daftar &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;beasiswa beserta syarat dan batas akhir pendaftarannya, lalu mengajukan &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;beasiswa yang masih dibuka. Ada dua jenis bea&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt; &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;siswa dengan syarat berkas yang &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;berbeda: Beasiswa Prestasi mensyaratkan bukti prestasi, sedangkan Beasiswa &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;Kurang Mampu mensyaratkan surat keterangan tidak mampu. Selain itu, &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;Mahasiswa Baru melampirkan bukti kelulusan SMA, sedangkan Mahasiswa Lama &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;melampir&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt; &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;kan transkrip nilai. Sebelum pengajuan disimpan, sistem memeriksa &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;kelengkapan berkas yang diunggah pemohon. Pengajuan yang lengkap tercatat &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;dengan status Diajukan dan dapat dilacak statusnya oleh pemohon.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="85" width="138" x="142" as="geometry">
+                        <mxRectangle height="85" width="138" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-36" parent="WnsgHqOFqsz20Eys4YMR-26" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+                    <mxGeometry height="46" width="280" y="163" as="geometry"/>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-37" parent="WnsgHqOFqsz20Eys4YMR-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="Kegiatan aktor" vertex="1">
+                    <mxGeometry height="46" width="142" as="geometry">
+                        <mxRectangle height="46" width="142" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-38" parent="WnsgHqOFqsz20Eys4YMR-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="respon sistem" vertex="1">
+                    <mxGeometry height="46" width="138" x="142" as="geometry">
+                        <mxRectangle height="46" width="138" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-39" parent="WnsgHqOFqsz20Eys4YMR-26" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+                    <mxGeometry height="47" width="280" y="209" as="geometry"/>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-40" parent="WnsgHqOFqsz20Eys4YMR-39" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&amp;nbsp;dapat melihat daftar &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;beasiswa beserta syarat dan batas akhir pendaftarannya,&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="47" width="142" as="geometry">
+                        <mxRectangle height="47" width="142" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-41" parent="WnsgHqOFqsz20Eys4YMR-39" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;Petugas &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;Kemahasiswaan memverifikasi berkas pengajua&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt; &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;n, sehingga status pengajuan &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;berubah menjadi Diverifikasi,&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="47" width="138" x="142" as="geometry">
+                        <mxRectangle height="47" width="138" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-42" parent="WnsgHqOFqsz20Eys4YMR-26" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+                    <mxGeometry height="48" width="280" y="256" as="geometry"/>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-43" parent="WnsgHqOFqsz20Eys4YMR-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;lalu mengajukan &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;beasiswa yang masih dibuka. Ada dua jenis bea&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt; &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;siswa dengan syarat berkas yang &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;berbeda: Beasiswa Prestasi mensyaratkan bukti prestasi, sedangkan Beasiswa &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;Kurang Mampu mensyaratkan surat keterangan tidak mampu.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="48" width="142" as="geometry">
+                        <mxRectangle height="48" width="142" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-44" parent="WnsgHqOFqsz20Eys4YMR-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&amp;nbsp;lalu Tim Seleksi mengumumkan hasil seleksi, &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;sehingga status pengajuan berubah menjadi Diterima atau Ditolak.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="48" width="138" x="142" as="geometry">
+                        <mxRectangle height="48" width="138" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-45" parent="WnsgHqOFqsz20Eys4YMR-26" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+                    <mxGeometry height="36" width="280" y="304" as="geometry"/>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-46" parent="WnsgHqOFqsz20Eys4YMR-45" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;lalu mengajukan &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;beasiswa yang masih dibuka. Ada dua jenis bea&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt; &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;siswa dengan syarat berkas yang &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;berbeda: Beasiswa Prestasi mensyaratkan bukti prestasi, sedangkan Beasiswa &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;Kurang Mampu mensyaratkan surat keterangan tidak mampu.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="36" width="142" as="geometry">
+                        <mxRectangle height="36" width="142" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-47" parent="WnsgHqOFqsz20Eys4YMR-45" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;etugas &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;Kemahasis&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt; &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Arial; color: rgb(0, 0, 0); font-size: 11.04pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;waan juga menambah, mengubah, dan menghapus data beasiswa.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="36" width="138" x="142" as="geometry">
+                        <mxRectangle height="36" width="138" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-49" parent="WnsgHqOFqsz20Eys4YMR-26" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" vertex="1">
+                    <mxGeometry height="20" width="280" y="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-50" parent="WnsgHqOFqsz20Eys4YMR-49" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" vertex="1">
+                    <mxGeometry height="20" width="142" as="geometry">
+                        <mxRectangle height="20" width="142" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WnsgHqOFqsz20Eys4YMR-51" parent="WnsgHqOFqsz20Eys4YMR-49" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" vertex="1">
+                    <mxGeometry height="20" width="138" x="142" as="geometry">
+                        <mxRectangle height="20" width="138" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
